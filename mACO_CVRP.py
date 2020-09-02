@@ -18,7 +18,7 @@ sigm = 3
 ro = 0.8
 th = 80
 fileName = "Input_Data.txt"
-iterations = 10
+iterations = 1000
 ants = 25
 
 def generateGraph():
